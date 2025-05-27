@@ -40,5 +40,35 @@ body::before {
 p {
     color:var(--text-color-secondary);
     line-height: 150%;
-    
 }
+ 
+h2{
+    font-weight: 400;
+    font-size: 2.4rem;
+    line-height: 150%;
+}
+ 
+h1, h2 {
+    color: var(--text-color-primary);
+    margin-bottom: 0.4 rem;
+    
+    }
+    
+    main{
+    max-width: 80 rem;
+    background: var(surface-color);
+    margin-inline: auto;
+    padding: 2.4 rem; 
+    border-radius: 2.4 rem;
+    
+    img{
+    border-radius: 1.6 rem;
+    margin-bottom: 2.4 rem;
+    
+    }
+    
+    section {
+    padding-inline: 2.4 rem;
+    
+    }
+    }

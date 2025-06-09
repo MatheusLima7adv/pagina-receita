@@ -82,7 +82,7 @@ main{
             margin-bottom: 1.2rem;
         }
     }
-    
+
  .ingredientes{
         margin-bottom: 2.4rem;
 
@@ -90,6 +90,12 @@ main{
             padding-left: 2.4rem;
             line-height: 150%;
             color: var(--text-color-secondary);
+        }
+    }
+
+      .modo-preparo{Add commentMore actions
+        p{
+            margin-bottom: 1.2rem;
         }
     }
 }
